@@ -1,0 +1,1 @@
+/Users/arhaan/.config/nvim/init.vim
